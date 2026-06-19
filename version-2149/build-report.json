@@ -1,0 +1,22 @@
+{
+  "source_txt_title_count": 2000,
+  "parsed_movie_count": 2000,
+  "detail_page_count": 2000,
+  "category_page_count": 10,
+  "html_page_count": 2014,
+  "video_source_count_from_uploaded_js": 150,
+  "image_files_included": 0,
+  "category_distribution": {
+    "亚洲热门": 200,
+    "华语精选": 200,
+    "高清电影": 200,
+    "人气剧集": 200,
+    "悬疑犯罪": 200,
+    "爱情文艺": 200,
+    "喜剧家庭": 200,
+    "青春成长": 200,
+    "动作冒险": 200,
+    "年度新片": 200
+  },
+  "baidu_stats_pages_checked": 2014
+}
